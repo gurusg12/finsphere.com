@@ -10,3 +10,4 @@ const HandoverSchema = new mongoose.Schema({
   notes: String,
 }, { timestamps: true });
 export default mongoose.models.Handover || mongoose.model("Handover", HandoverSchema);
+  
