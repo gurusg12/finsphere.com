@@ -3,6 +3,9 @@ import "./globals.css";
 export const metadata = {
   title: "FinSphere",
   description: "Finance management for micro-finance operations",
+};
+
+export const viewport = {
   themeColor: "#2c3e50",
 };
 
